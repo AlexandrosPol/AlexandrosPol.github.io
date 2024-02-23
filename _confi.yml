@@ -12,7 +12,7 @@ title                    : "Alexandros Polyzoidis / Site Title"
 title_separator          : "-"
 name                     : &name "Alexandros Polyzoidis"
 description              : &description "Data Scientist and Machine Learning Enthusiast"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alexandrospol.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexandrosPol.github.io/"
 
