@@ -1,6 +1,6 @@
 Math Skills: Linear Algebra, Calculus
 
-Statistic Skills: Probabilities
+Statistical Skills: Probabilities
 
 Technical Skills: Python, SQL, R
 
