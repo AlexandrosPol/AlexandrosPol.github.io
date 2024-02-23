@@ -3,8 +3,8 @@
 #### Technical Skills: R Programming, SQL
 
 ## Education		       		
-- M.S., Logistics & Supply Chain Management	| Aristotle University of Thessaloniki (_March 2017_)	 			        		
-- B.S., Economics | Aristotle University of Thessaloniki (_March 2015_)
+- M.S., Logistics & Supply Chain Management| Aristotle University of Thessaloniki (_March 2017_)	 			        		
+- B.S., Economics| Aristotle University of Thessaloniki (_March 2015_)
 
 ## Work Experience
 **SaaS Sales Specialist, Revenue Dpt @ Cyclopt (_January 2022 - Present_)**
