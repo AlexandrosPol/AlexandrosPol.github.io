@@ -7,7 +7,7 @@
 - B.S., Economics | Aristotle University of Thessaloniki (_March 2015_)
 
 ## Work Experience
-**SaaS Sales Specialist,Revenue Dpt @ Cyclopt (_January 2022 - Present_)**
+**SaaS Sales Specialist, Revenue Dpt @ Cyclopt (_January 2022 - Present_)**
 - Conduct ongoing research and build new key contacts and critical account information
 - Generate qualified leads and set sales meetings
 - Interact with customers over phone, email, and video conference
