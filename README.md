@@ -1,6 +1,6 @@
 # Data Scientist and Machine Learning Enthusiast
 
-#### Technical Skills: R Programming, SQL
+####
 
 ## Education		       		
 - M.S., Logistics & Supply Chain Management| Aristotle University of Thessaloniki (_March 2017_)	 			        		
