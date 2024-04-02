@@ -7,8 +7,8 @@ theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v2.0
 
 # Plugins
-plugins:
-  - jekyll-remote-theme
+#plugins:
+#  - jekyll-remote-theme
 
 # Personal and Social Links
 linkedin_url: https://www.linkedin.com/in/alexandrospolyzoidis/
