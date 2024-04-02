@@ -8,7 +8,7 @@ description: "Data Scientist with a robust background in B2B technology sales an
 
 # Plugins
 #plugins:
-#  - jekyll-remote-theme
+jekyll-remote-theme
 
 # Personal and Social Links
 linkedin_url: https://www.linkedin.com/in/alexandrospolyzoidis/
