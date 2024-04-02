@@ -2,7 +2,6 @@
 # Alexandros Polyzoidis
 
 Experienced Sales Specialist with a passion for Data Science and Machine Learning. With a master's degree in Logistics & Supply Chain Management, my journey has blended advanced analytics with operational excellence. I am dedicated to leveraging data-driven insights to solve complex business problems and drive growth. My goal is to transition fully into the Data Science field, utilizing my analytical skills to uncover actionable insights from data.
-####
 
 ## Education
 
