@@ -30,14 +30,20 @@ Performed market basket analysis to explore association rules in international v
 ### [Abalone Age Prediction](Machine%20Learning%20Algorithms/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
 Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
 
-## Skills and Technologies
 
-- **Programming Languages**: Proficient in R for statistical analysis and predictive modeling.
-- **Tools**: Experience with Power BI for data visualization and Odoo for CRM analytics.
-- **Data Analysis**: Competent in using machine learning algorithms for insightful data exploration.
+### Skills and Technologies
 
+- **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, matplotlib, and seaborn for data manipulation and visualization.
+- **Database Management:** Proficient in SQL, with certifications in PostgreSQL and experience using pgAdmin as a DBMS.
+- **Tools:** Experience with Power BI for data visualization and Odoo for CRM analytics.
+- **Data Analysis:** Competent in using machine learning algorithms for insightful data exploration.
+
+### Certifications
+- SQL Database Management with PostgreSQL
+- Data Science and Machine Learning with Python
+
+  
 ## Contact
-
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/).
 For collaboration or inquiries, email me at [apolyzoidis@hotmail.com](mailto:apolyzoidis@hotmail.com).
 
