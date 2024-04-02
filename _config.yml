@@ -1,14 +1,27 @@
-title: Alexandros Polyzoidis # your name (or website title) here
-logo: /assets/img/Proff_photo.jpg # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Experienced Sales Specialist at Cyclopt with a robust background in B2B technology sales and a Master's Degree in Logistics & Supply Chain Management. Former Transportation Manager in the 3PL sector with a strategic mindset and operational prowess.  
-  <br><br>
-  Currently enhancing skills in Data Science and Machine Learning. Aiming to merge strategic insights from logistics with advanced analytics expertise. Excited to contribute to data-driven solutions in the evolving landscape of technology.
-  <br><br>
-  <a href="https://www.linkedin.com/in/alexandrospolyzoidis/">View My LinkedIn Profile</a> 
-# show_downloads: true
-# theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v0.2.0
+# Site settings
+title: Alexandros Polyzoidis
+description: "Data Scientist with a robust background in B2B technology sales and a Master's Degree in Logistics & Supply Chain Management. Leveraging analytical prowess to drive data-driven decision-making."
+
+# Build settings
+theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v2.0
+
+# Plugins
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme
+
+# Personal and Social Links
+linkedin_url: https://www.linkedin.com/in/alexandrospolyzoidis/
+github_url: https://github.com/AlexandrosPol
+email: apolyzoidis@hotmail.com
+
+# Optional features
+show_downloads: true
+google_analytics: UA-000000-2 # Replace with your Google Analytics tracking ID if you have one
+
+# Image and Logo
+logo: /assets/img/Proff_photo.jpg # Make sure the path to your profile picture is correct
+
+# Other configurations
+markdown: kramdown
+permalink: pretty
