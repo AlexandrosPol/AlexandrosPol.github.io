@@ -9,7 +9,7 @@ Experienced Sales Specialist with a passion for Data Science and Machine Learnin
 
 ## Work Experience
 
-### SaaS Sales Specialist, Revenue Dpt @ Cylopt (January 2022 - Present)
+### SaaS Sales Specialist, Revenue Dpt @ Cyclopt (January 2022 - Present)
 - **Data Analysis**: Leveraged data to drive sales strategy and client engagement.
 - **Visualization**: Utilized Power BI to visualize sales metrics and generate insights.
 
