@@ -37,7 +37,7 @@ Applied linear regression and principal component analysis (PCA) to predict the 
 
 - **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, matplotlib, and seaborn for data manipulation and visualization.
 - **Database Management:** Proficient in SQL, with certifications in PostgreSQL and experience using pgAdmin as a DBMS.
-- **Data Visualization and Analysis Tools:**: - **Tableau Public Profile:** [View my Tableau visualizations](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes). A showcase of my ability to translate complex datasets into actionable insights through engaging visualizations.                               - **Power BI:** Utilized for sales metrics and client engagement insights.
+- **Data Visualization and Analysis Tools:**:- Tableau Public Profile: [View my Tableau visualizations](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes). A showcase of my ability to translate complex datasets into actionable insights through engaging visualizations.                                                 - Power BI: Utilized for sales metrics and client engagement insights.
 
 ### Certifications
 - **15 Days of SQL: The Complete SQL Masterclass 2024**
