@@ -4,6 +4,7 @@ Tech Sales Professional with a passion for Data Science and Machine Learning. Wi
 
 ## Education
 
+- **M.S., Data Science & Machine Learning** - Hellenic Open University (2023-present)
 - **M.S., Logistics & Supply Chain Management** - Aristotle University of Thessaloniki (March 2017)
 - **B.S., Economics** - Aristotle University of Thessaloniki (March 2015)
 
