@@ -1,6 +1,8 @@
 # Data Scientist and Machine Learning Enthusiast
 
-Tech Sales Professional with a passion for Data Science and Machine Learning. With a master's degree in Logistics & Supply Chain Management, my journey has blended advanced analytics with operational excellence. I am dedicated to leveraging data-driven insights to solve complex business problems and drive growth. My goal is to transition fully into the Data Science field, utilizing my analytical skills to uncover actionable insights from data.
+## Professional Summary
+
+A tech sales professional evolving into a Data Science and Machine Learning expert, with a solid foundation in Logistics & Supply Chain Management. My journey is marked by a passion for turning data into strategic insights, leveraging advanced analytics and data visualization to solve complex business problems. Proficient in Python, R, SQL, and visualization tools like Tableau, I aim to bridge the gap between data science and operational excellence, driving growth through informed decisions.
 
 ## Education
 
