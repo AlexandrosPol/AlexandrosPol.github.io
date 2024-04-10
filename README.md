@@ -24,13 +24,13 @@ A tech sales professional evolving into a Data Science and Machine Learning expe
 
 ## Projects
 
-### [Soil Data Clustering](Machine%20Learning%20Algorithms/Soil%20Dataset%20-%20k%20means%20clustering.R)
+### [Soil Data Clustering](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Soil%20Dataset%20-%20k%20means%20clustering.R)
 Clustering analysis on soil data from Northern Greece, identifying distinct soil types using k-means clustering.
 
-### [Market Basket Analysis](Machine%20Learning%20Algorithms/Countries%20Dataset%20-%20apriori%20algorithm.R)
+### [Market Basket Analysis](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Countries%20Dataset%20-%20apriori%20algorithm.R)
 Performed market basket analysis to explore association rules in international visitation data.
 
-### [Abalone Age Prediction](Machine%20Learning%20Algorithms/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
+### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
 Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
 
 ### Skills and Technologies
