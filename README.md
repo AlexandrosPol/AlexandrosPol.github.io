@@ -50,6 +50,9 @@ Applied linear regression and principal component analysis (PCA) to predict the 
 
 - **R Programming A-Z™: R For Data Science With Real Exercises!**
   - Enhanced data analysis and statistical modeling skills using **R** in **RStudio**, implementing a variety of data manipulation and visualization techniques.
+
+- **Tableau A-Z™**: Hands-On Tableau Training for Data Science**
+  - Acquired expertise in Tableau for creating powerful data visualizations and dashboards to communicate data-driven findings.
   
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/).
