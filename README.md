@@ -33,6 +33,9 @@ Performed market basket analysis to explore association rules in international v
 ### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
 Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
 
+### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
+Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
+
 ### Skills and Technologies
 
 - **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, matplotlib, and seaborn for data manipulation and visualization.
