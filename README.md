@@ -2,7 +2,9 @@
 
 ## Professional Summary
 
-A tech sales professional evolving into a Data Science and Machine Learning expert, with a solid foundation in Logistics & Supply Chain Management. My journey is marked by a passion for turning data into strategic insights, leveraging advanced analytics and data visualization to solve complex business problems. Proficient in Python, R, SQL, and visualization tools like Tableau, I aim to bridge the gap between data science and operational excellence, driving growth through informed decisions.
+Data Scientist and Machine Learning Specialist with expertise in tech-sales, logistics, finance, and quantitative analysis. Pursuing a Master’s in Data Science and Machine Learning. Microsoft Certified:
+Azure Data Scientist Associate. Proficient in Python, R, SQL, Azure ML, Tableau, and statistics. Experienced in data visualization and analysis to drive business decisions.
+Developed GitHub projects, including predictive analysis on the Titanic dataset. Seeking to leverage analytical and cloud computing skills in a Data Scientist role.
 
 ## Education
 
