@@ -1,4 +1,4 @@
-# Data Scientist and Machine Learning Enthusiast
+# Data Scientist and Machine Learning Specialist
 
 ## Professional Summary
 
