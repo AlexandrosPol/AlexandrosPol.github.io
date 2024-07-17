@@ -3,12 +3,12 @@ title: Alexandros Polyzoidis
 description: "Data Scientist with a robust background in B2B technology sales and a Master's Degree in Logistics & Supply Chain Management. Leveraging analytical prowess to drive data-driven decision-making."
 
 # Build settings
-theme: jekyll-theme-minimal
-remote_theme: pages-themes/minimal@v2.0
+# theme: jekyll-theme-minimal
+# remote_theme: pages-themes/minimal@v2.0
 
 # Plugins
-plugins:
-jekyll-remote-theme
+# plugins:
+# jekyll-remote-theme
 
 # Personal and Social Links
 linkedin_url: https://www.linkedin.com/in/alexandrospolyzoidis/
