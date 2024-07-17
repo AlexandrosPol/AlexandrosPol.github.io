@@ -29,10 +29,10 @@ Developed GitHub projects, including predictive analysis on the Titanic dataset.
 ### [Soil Data Clustering](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Soil%20Types%20Identification%20Analysis/Soil%20Dataset%20-%20k%20means%20clustering.R)
 Clustering analysis on soil data from Northern Greece, identifying distinct soil types using k-means clustering.
 
-### [Market Basket Analysis]([https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Countries%20Dataset%20-%20apriori%20algorithm.R](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Countries%20Visitation%20Analysis/Countries%20Dataset%20-%20apriori%20algorithm.R))
+### [Market Basket Analysis](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Countries%20Visitation%20Analysis/Countries%20Dataset%20-%20apriori%20algorithm.R)
 Performed market basket analysis to explore association rules in international visitation data.
 
-### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Machine%20Learning%20Algorithms/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
+### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Abalone%20Age%20Prediction/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
 Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
 
 ### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
