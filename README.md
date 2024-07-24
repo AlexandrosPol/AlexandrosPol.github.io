@@ -39,10 +39,11 @@ Applied linear regression and principal component analysis (PCA) to predict the 
 Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
 
 ### [Card Deck - Image Classification](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Card%20Deck%20-%20Image%20Classification%20with%20PyTorch/card-deck-image-classification-with-pytorch.ipynb)
+This project involves classifying images of playing cards into their respective categories using deep learning. The dataset consists of images of playing cards, and the task is to correctly identify the rank and suit of each card. The project employs a convolutional neural network (CNN) implemented in PyTorch. The model is trained using a transfer learning approach with a pre-trained network from the timm library, specifically designed for image classification tasks.
 
 ### Skills and Technologies
 
-- **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, matplotlib, and seaborn for data manipulation and visualization.
+- **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, scikit-Learn, torch, torchvision, matplotlib, and seaborn for data manipulation and visualization.
 - **Database Management:** Proficient in SQL, with certifications in PostgreSQL and experience using pgAdmin as a DBMS.
 - **Data Visualization and Analysis Tools:**
   - Tableau Public Profile: [View my Tableau visualizations](https://public.tableau.com/app/profile/alexandros.polyzoidis/vizzes). A showcase of my ability to translate complex datasets into actionable insights through engaging visualizations.
