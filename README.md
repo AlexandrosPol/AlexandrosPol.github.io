@@ -38,6 +38,8 @@ Applied linear regression and principal component analysis (PCA) to predict the 
 ### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
 Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
 
+### [Card Deck - Image Classification](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Card%20Deck%20-%20Image%20Classification%20with%20PyTorch/card-deck-image-classification-with-pytorch.ipynb)
+
 ### Skills and Technologies
 
 - **Programming Languages:** Proficient in R for statistical analysis and predictive modeling. Additionally, skilled in Python with experience using Jupyter Notebook, NumPy, pandas, matplotlib, and seaborn for data manipulation and visualization.
