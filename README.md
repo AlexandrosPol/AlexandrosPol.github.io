@@ -14,7 +14,7 @@ Developed GitHub projects, including predictive analysis on the Titanic dataset.
 
 ## Work Experience
 
-### SaaS Sales Specialist, Revenue Dpt @ Cyclopt (January 2022 - Present)
+### SaaS B2B Sales & Strategy Analyst, Revenue Dpt @ Cyclopt (January 2022 - Present)
 - **Data Analysis**: Leveraged data to drive sales strategy and client engagement.
 - **Visualization**: Utilized Power BI to visualize sales metrics and generate insights.
 
