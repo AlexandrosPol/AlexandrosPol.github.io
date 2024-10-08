@@ -2,9 +2,10 @@
 
 ## Professional Summary
 
-Data Scientist and Machine Learning Specialist with expertise in tech-sales, logistics, finance, and quantitative analysis. Pursuing a Master’s in Data Science and Machine Learning. Microsoft Certified:
-Azure Data Scientist Associate. Proficient in Python, R, SQL, Azure ML, Tableau, and statistics. Experienced in data visualization and analysis to drive business decisions.
-Developed GitHub projects, including predictive analysis on the Titanic dataset. Seeking to leverage analytical and cloud computing skills in a Data Scientist role.
+Data Scientist and Machine Learning Specialis with expertise in tech-sales, logistics, finance, and quantitative analysis. Currently pursuing a Master’s in Data Science and Machine
+Learning. Certified Azure Data Scientist Associate. Skilled in Python, R, SQL, Microsoft Azure, Tableau, mathematics and statistics. Experienced in
+data visualization and analysis to drive business decisions. Developed ML clustering projects for e-commerce customer segmentation and personal
+deep learning projects on Kaggle for image classification and computer vision.
 
 ## Education
 
