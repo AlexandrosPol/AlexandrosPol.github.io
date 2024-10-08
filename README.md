@@ -62,6 +62,14 @@ This project involves classifying images of playing cards into their respective 
 
 - **Tableau A-Z™**: Hands-On Tableau Training for Data Science**
   - Acquired expertise in Tableau for creating powerful data visualizations and dashboards to communicate data-driven findings.
+
+- **Microsoft Certified: Azure Data Scientist Associate™**:
+  - Designing and creating a suitable working environment for data science workloads.
+  - Exploring data.
+  - Training machine learning models.
+  - Implementing pipelines.
+  - Running jobs to prepare for production.
+  - Managing, deploying, and monitoring scalable machine learning solutions.
   
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/alexandrospolyzoidis/).
