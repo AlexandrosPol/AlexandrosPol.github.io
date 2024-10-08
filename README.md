@@ -15,7 +15,13 @@ deep learning projects on Kaggle for image classification and computer vision.
 
 ## Work Experience
 
-### SaaS B2B Sales & Strategy Analyst, Revenue Dpt @ Cyclopt (January 2022 - Present)
+### Data Scientist & ML Engineer, Freelancing (October 2023-Present)
+- Developing and implementing machine learning clustering models for customer segmentation, optimizing marketing strategies and improving
+  customer targeting for e-commerce companies.
+- Participated in Kaggle competitions, creating deep learning models for label and image classification, and enhancing computer vision
+  techniques, with projects available on my GitHub.
+
+### SaaS B2B Sales & Strategy Analyst, Revenue Dpt @ Cyclopt (January 2022 - May 2024)
 - **Data Analysis**: Leveraged data to drive sales strategy and client engagement.
 - **Visualization**: Utilized Power BI to visualize sales metrics and generate insights.
 
