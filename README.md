@@ -83,8 +83,27 @@ deep learning projects on Kaggle for image classification and computer vision.
   - **Future Improvements**: Explore other algorithms or finer threshold adjustments.
 - **Conclusion**: This analysis highlights key visitation patterns, with actionable insights for tourism marketing in regions with frequent travel associations.
 
-### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Abalone%20Age%20Prediction/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
-Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
+### [Abalone Age Prediction Using Linear Regression and PCA](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Abalone%20Age%20Prediction/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
+- **Objective**: To predict the age of abalone using linear regression based on physical measurements and to demonstrate feature selection and dimensionality reduction techniques.
+- **Tools**:
+  - **Language**: R
+  - **Libraries**: AppliedPredictiveModeling, caret, Metrics
+- **Dataset Overview**: 
+  - **Data Source**: The abalone dataset from the AppliedPredictiveModeling package.
+  - **Description**: Physical measurements of abalone, with the target variable 'Rings' indicating age.
+- **Process**:
+  - **Data Preparation**: Loaded and pre-processed the abalone dataset, excluding non-predictive variables.
+  - **Feature Importance Analysis**: Ranked predictor variables by importance for age prediction.
+  - **Linear Regression Modeling**: Built and evaluated an initial model using top predictors.
+  - **Dimensionality Reduction (PCA)**: Applied PCA and created a simplified model with principal components.
+- **Modeling & Evaluation**:
+  - **Initial Model MSE**: 6.297 (using top predictors)
+  - **PCA Model MSE**: 6.645 (using first two principal components)
+  - **Interpretation**: PCA improved interpretability with fewer variables but resulted in slightly higher MSE.
+- **Key Findings**:
+  - Feature selection identified top predictors for accurate modeling.
+  - PCA-based model offered a simpler approach, highlighting the trade-off between model complexity and accuracy.
+- **Conclusion**: This project demonstrates linear regression for age prediction, incorporating feature selection and PCA for dimensionality reduction.
 
 ### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
 Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
