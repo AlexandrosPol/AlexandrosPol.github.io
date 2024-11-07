@@ -58,8 +58,30 @@ deep learning projects on Kaggle for image classification and computer vision.
 #### Cluster Plot with Simplified Dataset
 ![Cluster Plot Simplified](images/Clustering%20with%20Simplified%20Dataset.png)
 
-### [Market Basket Analysis](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Countries%20Visitation%20Analysis/Countries%20Dataset%20-%20apriori%20algorithm.R)
-Performed market basket analysis to explore association rules in international visitation data.
+### [Country Visitation Pattern Mining with Apriori Algorithm](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Countries%20Visitation%20Analysis/Countries%20Dataset%20-%20apriori%20algorithm.R)
+- **Objective**: To explore frequent country visitation patterns using association rule mining. By uncovering relationships between commonly visited countries, this analysis offers insights for potential joint tourism promotion strategies.
+- **Tools**:
+  - **Language**: R
+  - **Libraries**: `arules` for association rule mining
+- **Dataset Overview**: A dataset of transactional country visitations, where each row represents a set of countries visited by a single traveler. The dataset includes 55 unique countries.
+- **Process**:
+  - **Data Preparation**: Loaded transactional data and inspected for frequently visited countries.
+  - **Apriori Algorithm**: Applied with minimum support of 0.2 and confidence of 0.8.
+  - **Parameter Tuning**: Adjusted support threshold iteratively to explore changes in rule generation.
+  - **Rule Inspection**: Sorted by support to identify top patterns, like the association between Cyprus and Greece.
+- **Modeling & Evaluation**:
+  - **Key Findings**:
+    - **Cyprus => Greece**: High likelihood of visiting Greece after Cyprus.
+    - Rules with high support indicate common travel patterns, suggesting actionable insights.
+  - **Parameter Tuning Visualization**:
+    ![Support vs. Number of Rules Plot](images/Support%20vs.%20Number%20of%20Rules%20Plot.png)
+- **Business Implications**:
+  - **Tourism Strategy**: Joint tourism campaigns for Cyprus and Greece.
+  - **Marketing Insights**: Promote culturally similar regions together for enhanced visitor experience.
+- **Challenges and Improvements**:
+  - **Challenges**: Parameter tuning to balance rule quantity and relevance.
+  - **Future Improvements**: Explore other algorithms or finer threshold adjustments.
+- **Conclusion**: This analysis highlights key visitation patterns, with actionable insights for tourism marketing in regions with frequent travel associations.
 
 ### [Abalone Age Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Abalone%20Age%20Prediction/Abalone%20Dataset%20-%20linear%20regression%2Bpca.R)
 Applied linear regression and principal component analysis (PCA) to predict the age of abalone from physical measurements.
