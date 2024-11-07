@@ -3,7 +3,7 @@ title: "Alexandros Polyzoidis - Data Scientist & Machine Learning Specialist"
 description: "Portfolio showcasing projects and experience in data science, machine learning, and analytics."
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # or another compatible version
 
 # Navigation for header pages
 header_pages:
