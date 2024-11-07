@@ -34,7 +34,29 @@ deep learning projects on Kaggle for image classification and computer vision.
 ## Projects
 
 ### [Soil Data Clustering](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Soil%20Types%20Identification%20Analysis/Soil%20Dataset%20-%20k%20means%20clustering.R)
-Clustering analysis on soil data from Northern Greece, identifying distinct soil types using k-means clustering.
+- **Objective**: Performed k-means clustering on soil data from Northern Greece to identify distinct soil types, supporting optimized agricultural practices.
+- **Tools**: R, KMeans Clustering, ggplot2, factoextra.
+- **Process**:
+  - **Data Cleaning**: Removed non-informative columns and handled missing values to ensure data quality.
+  - **Data Transformation**: Scaled the data to standardize features, ensuring equal contribution in distance calculations for clustering.
+  - **Modeling & Evaluation**:
+    - Used the **Elbow Method** to identify the optimal number of clusters.
+    - Applied the **Silhouette Method** to validate cluster cohesion and separation.
+  - **Visualization**: Visualized clusters using ggplot2 and factoextra.
+  - **Feature Reduction**: Tested clustering on a simplified dataset with key soil properties.
+- **Result**: Identified three main soil clusters with clearer separation in the simplified dataset.
+
+#### Elbow Plot
+![Elbow Plot](images/Elbow%20Method%20for%20Choosing%20Optimal%20k.png)
+
+#### Silhouette Score Plot
+![Silhouette Plot](images/Average%20Silhouette%20Scores%20for%20Different%20k.png)
+
+#### Cluster Plot
+![Cluster Plot](images/Cluster%20plot.png)
+
+#### Cluster Plot with Simplified Dataset
+![Cluster Plot Simplified](images/Clustering%20with%20Simplified%20Dataset.png)
 
 ### [Market Basket Analysis](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Countries%20Visitation%20Analysis/Countries%20Dataset%20-%20apriori%20algorithm.R)
 Performed market basket analysis to explore association rules in international visitation data.
