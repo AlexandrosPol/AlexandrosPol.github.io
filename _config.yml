@@ -1,26 +1,29 @@
 # Site settings
-title: Alexandros Polyzoidis
-description: "Data Scientist with a robust background in B2B technology sales and a Master's Degree in Logistics & Supply Chain Management. Leveraging analytical prowess to drive data-driven decision-making."
+title: "Alexandros Polyzoidis - Data Scientist & Machine Learning Specialist"
+description: "Portfolio showcasing projects and experience in data science, machine learning, and analytics."
 
 # Build settings
-theme: jekyll-theme-minimal
-# remote_theme: pages-themes/minimal@v2.0
+remote_theme: mmistakes/minimal-mistakes
 
-# Plugins
-# plugins:
-# jekyll-remote-theme
+# Navigation for header pages
+header_pages:
+  - index.md
+  - about.md
+  - projects.md
+  - contact.md
 
-# Personal and Social Links
-linkedin_url: https://www.linkedin.com/in/alexandrospolyzoidis/
-github_url: https://github.com/AlexandrosPol
-email: apolyzoidis@hotmail.com
+# Social Links
+social_links:
+  linkedin: https://www.linkedin.com/in/alexandrospolyzoidis/
+  github: https://github.com/AlexandrosPol
+  email: mailto:apolyzoidis@hotmail.com
 
 # Optional features
+google_analytics: UA-12345678-9  # Replace with your actual Google Analytics ID
 show_downloads: false
-google_analytics: UA-000000-2 # Replace with your Google Analytics tracking ID if you have one
 
 # Image and Logo
-logo: /assets/img/Proff_photo.jpg # Make sure the path to your profile picture is correct
+logo: /assets/img/profile_photo.jpg  # Ensure the path is correct and the image is in place
 
 # Other configurations
 markdown: kramdown
