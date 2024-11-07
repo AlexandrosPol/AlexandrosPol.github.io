@@ -33,6 +33,94 @@ deep learning projects on Kaggle for image classification and computer vision.
 
 ## Projects
 
+### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
+## Objective
+- Predict the survival of passengers on the Titanic based on features such as passenger class, sex, age, number of siblings/spouses, parents/children on board, fare, and port of embarkation.
+- Identify factors that influenced survival rates to provide insights into societal dynamics and emergency responses.
+
+## Dataset
+- **Source**: [Titanic dataset on Kaggle](https://www.kaggle.com/c/titanic/data)
+- The dataset contains various features that may influence the survival rates of passengers.
+
+## Tools and Libraries
+- **Programming Language**: Python
+- **Libraries**: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+## Project Workflow
+
+### Step 1: Define the Problem
+The Titanic disaster is one of the most infamous shipwrecks in history. This project aims to analyze which types of people were likely to survive, using machine learning to predict survival based on various characteristics.
+
+### Step 2: Data Collection
+- Loaded the Titanic dataset as a pandas DataFrame for analysis and feature engineering.
+
+### Step 3: Data Preprocessing
+- **Dropping Irrelevant Features**: Removed columns unlikely to affect survival, such as `PassengerId`, `Name`, and `Cabin`.
+- **Handling Missing Values**: Imputed missing values for `Age` and `Embarked`.
+- **Data Type Conversion**: Transformed categorical variables (`Sex`, `Embarked`) into numerical values.
+- **Feature Binning**: Grouped `Age` into categories to improve interpretability.
+
+### Step 4: Exploratory Data Analysis (EDA)
+- Analyzed distributions of various features to understand patterns and relationships.
+
+#### Visualizations
+- ![EDA Overview](images/eda_feature_counts.png)  
+  *Visualizations showing distributions of features like Survival, Class, Sex, Age, Embarked, Fare, Siblings, and Parents.*
+  
+- ![Correlation Matrix](images/correlation_matrix.png)  
+  *A heatmap showing correlations between different features.*
+
+- ![Feature Relationships](images/eda_relationships.png)  
+  *Relationship visualizations between survival and key features like Sex, Age, Pclass, Siblings, and Parents.*
+
+### Step 5: Feature Engineering
+- **Label Encoding**: Converted categorical features to numerical values for model compatibility.
+- **Feature Scaling**: Applied feature scaling for uniform range across features.
+
+### Step 6: Model Selection and Training
+- **Models Evaluated**:
+  - Logistic Regression
+  - Decision Tree Classifier
+  - Support Vector Machine (SVM)
+  - K-Nearest Neighbors (KNN)
+- **Hyperparameter Tuning**: Used GridSearchCV for optimal parameter selection, particularly for the Decision Tree model.
+
+### Step 7: Model Evaluation
+- Compared model accuracies on the validation set:
+  - **Logistic Regression**: 80%
+  - **Decision Tree**: 81% (Best-performing model)
+  - **SVM**: 80%
+  - **KNN**: 78%
+
+### Step 8: Testing and Final Model Selection
+- Decision Tree Classifier selected as the final model due to its balance of interpretability and performance.
+
+### Step 9: Prediction and Feature Importance
+- Predicted survival outcomes on the test set and analyzed feature importance based on the Decision Tree model.
+
+## Key Findings
+- **Socio-economic Status**: Higher class passengers had a better chance of survival, likely due to easier access to lifeboats.
+- **Gender Bias**: Females had higher survival rates, reflecting the “women and children first” policy.
+- **Age Factor**: Younger passengers, especially children, had better survival odds.
+- **Family Size**: Passengers with smaller family groups had a higher survival chance compared to those with larger families.
+
+## Conclusion
+After thorough analysis and modeling, the Decision Tree Classifier was chosen for its ability to capture non-linear relationships between features. Key findings from this project include:
+- **Socio-economic Status**: Higher class passengers had higher survival chances.
+- **Gender Bias**: Females had a higher survival rate due to the “women and children first” policy.
+- **Family Size**: Smaller family groups had higher survival rates.
+
+This analysis highlights the predictive power of machine learning for historical data and offers potential insights into emergency response protocols.
+
+## Future Work
+- Test other advanced models like **Random Forest** or **Gradient Boosting**.
+- Fine-tune hyperparameters further for enhanced accuracy.
+- Explore additional sources of data to enrich the analysis.
+
+---
+
+> **Note**: Visualizations are provided based on EDA and relationships analysis. For a complete set of code and additional details, please refer to the [Jupyter Notebook](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb).
+
 ### [Soil Data Clustering](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Soil%20Types%20Identification%20Analysis/Soil%20Dataset%20-%20k%20means%20clustering.R)
 - **Objective**: Performed k-means clustering on soil data from Northern Greece to identify distinct soil types, supporting optimized agricultural practices.
 - **Tools**: R, KMeans Clustering, ggplot2, factoextra.
@@ -105,8 +193,7 @@ deep learning projects on Kaggle for image classification and computer vision.
   - PCA-based model offered a simpler approach, highlighting the trade-off between model complexity and accuracy.
 - **Conclusion**: This project demonstrates linear regression for age prediction, incorporating feature selection and PCA for dimensionality reduction.
 
-### [Titanic Survival Prediction](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Titanic%20Survival%20Prediction/Titanic%20Survival%20Prediction.ipynb)
-Analyzing the Titanic dataset to predict survival rates using machine learning in Python. The project demonstrates data cleaning, exploratory data analysis, and the application of classification algorithms.
+---
 
 ### [Card Deck - Image Classification](https://github.com/AlexandrosPol/Data-Science-Projects/blob/main/Card%20Deck%20-%20Image%20Classification%20with%20PyTorch/card-deck-image-classification-with-pytorch.ipynb)
 This project involves classifying images of playing cards into their respective categories using deep learning. The dataset consists of images of playing cards, and the task is to correctly identify the rank and suit of each card. The project employs a convolutional neural network (CNN) implemented in PyTorch. The model is trained using a transfer learning approach with a pre-trained network from the timm library, specifically designed for image classification tasks.
