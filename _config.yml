@@ -1,30 +1,5 @@
-# Site settings
-title: "Alexandros Polyzoidis - Data Scientist & Machine Learning Specialist"
-description: "Portfolio showcasing projects and experience in data science, machine learning, and analytics."
-
-# Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"  # or another compatible version
-
-# Navigation for header pages
-header_pages:
-  - index.md
-  - about.md
-  - projects.md
-  - contact.md
-
-# Social Links
-social_links:
-  linkedin: https://www.linkedin.com/in/alexandrospolyzoidis/
-  github: https://github.com/AlexandrosPol
-  email: mailto:apolyzoidis@hotmail.com
-
-# Optional features
-google_analytics: UA-12345678-9  # Replace with your actual Google Analytics ID
-show_downloads: false
-
-# Image and Logo
-logo: /assets/img/profile_photo.jpg  # Ensure the path is correct and the image is in place
-
-# Other configurations
+title: "Alexandros Polyzoidis - Portfolio"
+description: "Portfolio showcasing my data science and machine learning projects."
+remote_theme: "mmistakes/minimal-mistakes"
 markdown: kramdown
 permalink: pretty
