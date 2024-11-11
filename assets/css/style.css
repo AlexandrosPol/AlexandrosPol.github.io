@@ -88,6 +88,11 @@
   background-color: #E97627; /* Tableau's orange background color on hover */
 }
 
+.icon-btn.tableau img {
+  vertical-align: middle;
+  margin-top: -4px; /* Adjust this value until the alignment looks correct */
+}
+
 /* Buttons - Read Me, Contact Us */
 
 .readme {
