@@ -62,6 +62,11 @@
   color: grey;
 }
 
+.tableau {
+  color: #E97627; /* Tableau's orange color */
+}
+
+/* Hover Effects */
 .icon-btn:hover {
   transform: scale(1.10);
   color: #FFFFFF;
@@ -77,6 +82,10 @@
 
 .github:hover {
   background-color: black;
+}
+
+.tableau:hover {
+  background-color: #E97627; /* Tableau's orange background color on hover */
 }
 
 /* Buttons - Read Me, Contact Us */
